@@ -3,7 +3,7 @@
 	"name": "Element Toggle Extension",
 	"version": "1.0",
 	"description": "Pick an element on a page and toggle its removal/reinsertion using keyboard shortcuts.",
-	"permissions": ["scripting", "activeTab"],
+	"permissions": ["activeTab"],
 	"background": {
 	  "service_worker": "background.js"
 	},
